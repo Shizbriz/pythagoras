@@ -1,4 +1,3 @@
-import("./jquery-3.5.1")
 
 function Oluwaseyi() {
 const nam = "Oluwaseyi Ogunrinde ";
@@ -19,7 +18,7 @@ function hamDist(str, strn) {
 let OHM = hamDist(slack_username, twitter_handle);
 
   document.write(
-    `Name: ${nam} <br> Email: ${email} <br> Slack Username: ${slack_username} <br> Twitter Handle: ${twitter_handle}  <br> Hamming Distance: ${OHM} `
+    `Name: ${nam} /n Email: ${email} <br> Slack Username: ${slack_username} <br> Twitter Handle: ${twitter_handle}  <br> Hamming Distance: ${OHM} `
   );
 }
 
