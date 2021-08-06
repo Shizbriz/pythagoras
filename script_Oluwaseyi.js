@@ -3,7 +3,7 @@ const nam = "Oluwaseyi Ogunrinde ";
 const email = "seyiogunrinde@yahoo.co.uk";
 const slack_username = "@Oluwaseyi";
 const twitter_handle = "@shiz_briz";
-const biostack = "Genomics"
+const biostack = "Genomics, Public health and Genomic epidemiology, Software development"
 
 function hamDist(str, strn) {
   let dist = 0;
