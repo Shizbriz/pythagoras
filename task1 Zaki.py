@@ -4,4 +4,12 @@ print('zakimostafa914@gmail.com')
 print('@zaki')
 print('drug discovery')
 print('@Mostafa79265884')
-print('11')
+
+def hamming_distance(x, y):
+    Distance = 0
+    for n in range(len(x)):
+        if x[n] != y[n]:
+            Distance = Distance + 1
+    return Distance
+
+print(hamming_distance('U029LKH3Y0N','Mostafa79265884')) 
