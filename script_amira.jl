@@ -1,3 +1,4 @@
+#!/usr/bin/julia
 # a script that prints my name, slack username, biostack
 
 name = "Amira Mahmoud"
