@@ -15,7 +15,8 @@ do
 		node $i >> pythagoras_members.csv
 	elif [[ $i == *.cpp ]]
 	then
-		g++ $i >> pythagoras_members.csv
+		g++ $i -o program 
+		./program >> pythagoras_members.csv
 	elif [[ $i == *.jl ]]
 	then
 		julia $i >> pythagoras_members.csv
