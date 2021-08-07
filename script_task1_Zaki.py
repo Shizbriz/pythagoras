@@ -1,4 +1,5 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
+
 # this program is Hackbio internship Task 1 by Zaki, it incudes name, mail, slack name, biostack, twitter handle and Hamming distance between slack handle and twitter handle respectively.
 print('Mostafa Ahmed Zaki')
 print('zakimostafa914@gmail.com')
