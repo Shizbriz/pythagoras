@@ -1,3 +1,5 @@
+#!/usr/local/bin/node
+
 function Oluwaseyi() {
 const Name = "Oluwaseyi Ogunrinde ";
 const email = "seyiogunrinde@yahoo.co.uk";
