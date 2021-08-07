@@ -7,5 +7,5 @@ chmod +x script*
 
 for i in $(ls script*);
 do
-./$i | awk -F ',' '{print $1,$2,$3,$4,$5,$6}' >> pythagoras.csv
+./$i | awk -F ',' '{print $1,$2,$3,$4,$5,$6,$7, $8, $9,$10}' >> pythagoras.csv
 done
