@@ -1,6 +1,5 @@
 #!/usr/bin/node
-
-
-console.log("Zahraa Modather" + "\n" + "s-zahraamodather@zewailcity.edu.eg" + "\n" + "@Zahraa" + "\n" + "Drug Design");
-
-
+console.log("Zahraa Modather");
+console.log("s-zahraamodather@zewailcity.edu.eg");
+console.log("@Zahraa");
+console.log("Drug Design");
