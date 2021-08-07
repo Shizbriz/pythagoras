@@ -1,4 +1,4 @@
-#!/usr/bin/julia
+#!/usr/bin/Julia
 # a script that prints my name, slack username, biostack
 
 name = "Amira Mahmoud"
