@@ -1,7 +1,5 @@
 git clone https://github.com/Shizbriz/pythagoras.git
 
-output = pythagoras_members.csv
-
 cd ./pythagoras
 
 chmod +x script*
