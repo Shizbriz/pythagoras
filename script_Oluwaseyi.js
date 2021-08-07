@@ -1,4 +1,6 @@
-#!/usr/bin/node
+#!/usr/bin/env node
+
+chmod +x script_Oluwaseyi.js
 
 Oluwaseyi();
  
