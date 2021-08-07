@@ -1,4 +1,4 @@
-#!/usr/bin/matlab
+#!/usr/bin/env matlab
 fprintf('Noha Hafez \n')
 fprintf('s-noha_hafez@zewailcity.edu.eg \n')
 fprintf('@Noha \n')
