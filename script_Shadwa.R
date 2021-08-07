@@ -1,4 +1,4 @@
-#!/usr/bin/Rscript
+#!/usr/bin/env Rscript
 #Task 0 using R language to print name, email, slack username, biostack, twitter handle, and hamming distance.
 print("name = Shadwa Hesham Ibrahim El Dosuky", quote = FALSE)
 print("Email = s-shadwaeldosuky@zewailcity.edu.eg", quote = FALSE)
