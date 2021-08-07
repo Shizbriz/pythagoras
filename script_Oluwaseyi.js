@@ -7,7 +7,7 @@ const slack_username = "@Oluwaseyi";
 const twitter_handle = "@shiz_briz";
 const biostack = "Genomics, Public health and Genomic epidemiology, Software development"
 
-function hamDist(str, strn) {
+let hamDist = (str, strn) => {
   let dist = 0;
   for (let i = 0; i <= str.length; i++) {
     if (str.toLowerCase()[i] !== strn.toLowerCase()[i]) {
