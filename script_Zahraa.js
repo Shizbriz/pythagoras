@@ -1,6 +1,15 @@
-#!/usr/bin/node
+#!/usr/bin/env node
 
+Zahraa();
 
-console.log("Zahraa Modather" + "\n" + "s-zahraamodather@zewailcity.edu.eg" + "\n" + "@Zahraa" + "\n" + "Drug Design");
+let Zahraa = () => {
+console.log("Zahraa Modather" 
+            +"\n" 
+            + "s-zahraamodather@zewailcity.edu.eg" 
+            + "\n" 
+            + "@Zahraa" 
+            + "\n" 
+            + "Drug Design");
+}
 
 
