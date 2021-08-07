@@ -22,7 +22,7 @@ let hamDist = (str, strn) => {
 let OHM = hamDist(slack_username, twitter_handle);
 
  console.log(
-    `Name: ${Name} <br> Email: ${email} <br> Slack Username: ${slack_username} <br> Twitter Handle: ${twitter_handle}  <br> Biostack: ${biostack} <br> Hamming Distance: ${OHM} `
+    `Name: ${Name} \n Email: ${email} \n Slack Username: ${slack_username} \n Twitter Handle: ${twitter_handle}  \n Biostack: ${biostack} \n Hamming Distance: ${OHM} `
   );
 
 }
